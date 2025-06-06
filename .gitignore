@@ -1,0 +1,2 @@
+# Ignore node_modules — because no one needs 300MB of junk in their repo
+node_modules/
